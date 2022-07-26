@@ -1,4 +1,4 @@
-<p align="center" style="background: #5429cc; border: 1px solid">
+<p align="center" style="background-color:#5429cc !important; border: 1px solid">
   <img width=200px height=200px src="/src/assets/logo.svg" alt="Project logo">
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="color: blue">
   Sistema para cadastro e visualização transações.
 </p>
 
