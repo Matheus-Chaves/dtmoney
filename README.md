@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  Sistema para cadastro de transações.
+  Sistema para cadastro e visualização transações.
 </p>
 
 ## 📝 Sumário
@@ -24,7 +24,6 @@
 - [Utilização](#utilizacao)
 - [Construído com](#construido_com)
 - [Autores](#autores)
-- [Acknowledgments](#reconhecimentos)
 
 ## 🧐 Sobre <a name = "sobre"></a>
 
