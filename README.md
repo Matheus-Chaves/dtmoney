@@ -82,9 +82,9 @@ A utilização do sistema é simples e a interface é bem intuitiva.
 - A quantia de entradas, saídas e o total (soma dos valores anteriores), estão na parte superior da página
 
 <div align="center">
-  <img src="../dtmoney/.github/home.png" alt="Imagem do projeto"/>
-  <img src="../dtmoney/.github/modal.png" alt="Imagem do projeto"/>
-  <img src="../dtmoney/.github/dtmoney_demo.gif" alt="Gif do projeto"/>
+  <img src="/.github/home.png" alt="Imagem da home"/>
+  <img src="/.github/modal.png" alt="Imagem do modal"/>
+  <img src="/.github/dtmoney_demo.gif" alt="Gif do projeto"/>
 </div>
 
 ## ⛏️ Construído com <a name = "construido_com"></a>
